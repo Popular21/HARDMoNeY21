@@ -1,0 +1,14 @@
+{
+  "name": "hardmoney",
+  "version": "1.0.0",
+  "description": "",
+  "main": "HARDMoNeY21.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HARDMoNeY21",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
